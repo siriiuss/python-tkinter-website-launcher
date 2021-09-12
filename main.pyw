@@ -13,7 +13,7 @@ root = Tk()
 
 
 
-#open a window. Size 100x100
+#open a window. 
 root.geometry('198x190')
 
 #If you don't want to type webbrowser.open you can type it with a variable

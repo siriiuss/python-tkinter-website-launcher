@@ -30,7 +30,7 @@ def gmail():
 def github():
    wo('https://github.com')
 def stackoverflow():
-   wo('https://stackoverflow.coms')
+   wo('https://stackoverflow.comas')
 def twitter():
    wo('https://twitter.com')
 def instagram():

@@ -24,7 +24,7 @@ wo = webbrowser.open
 
 #Functions for commands
 def google():
-   wo("https://google.coms")
+   wo("https://google.com")
 def gmail():
    wo('https://gmail.com')
 def github():
